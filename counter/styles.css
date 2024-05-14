@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: yellow;
+    background-image: url(./count.jpeg);
+  }
+  h1{
+    text-align: center;
+  background-color: blueviolet;
+    padding: 10px;
+    margin: 15px;
+    width: 40%;
+    border-top: 50px;
+  }
+  .counter-container {
+    margin-top: 150px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #counter {
+    font-size: 3em;
+    color:  darkturquoise;
+  }
+  
+  .even {
+    color: black;
+  }
+  
+  .odd {
+    color: red;
+  }
+  
+  .buttons {
+    margin-top: 40px;
+  }
+  
+  button {
+    font-size: 1em;
+    padding: 20px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    background-color: brown;
+  }
